@@ -1,5 +1,5 @@
-// SPDX-FileCopyrightText: Copyright (C) Nile Jocson <atraphaxia@gmail.com>
-// SPDX-License-Identifier: MPL-2.0
+// SPDX-FileCopyrightText: Copyright (C) 2025 Nile Jocson <atraphaxia@gmail.com>
+// SPDX-License-Identifier: 0BSD
 
 #import "@preview/nikonova:0.1.0": nikonova, nikonova-problem as problem, nikonova-final as final
 
