@@ -1,6 +1,7 @@
 *
 
 !/.gitignore
+!/CHANGELOG.md
 !/LICENSE
 !/README.md
 !/thumbnail.png

@@ -1,4 +1,4 @@
-#import "@preview/nikonova:0.1.0": nikonova, nikonova-problem as problem, nikonova-final as final
+#import "@preview/nikonova:0.1.1": nikonova, nikonova-problem as problem, nikonova-final as final
 
 #show: nikonova.with(
 	title: "Math",
