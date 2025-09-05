@@ -17,6 +17,7 @@
 	body
 ) = {
 	showybox(
+		breakable: true,
 		frame: (
 			border-color: fg-color,
 			title-color: bg-color,
