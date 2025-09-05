@@ -37,12 +37,12 @@
 
 
 #let nikonova-title(
-	title: "Math 20",
-	subtitle: "Review Topics in Algebra",
-	subsubtitle: "Notes and Solutions",
+	title: "Math",
+	subtitle: "Notes and Solutions",
+	subsubtitle: "Algebra",
 	number: "1",
-	author: "Nile Jocson",
-	email: "atraphaxia@gmail.com",
+	author: "Annie Nikonova",
+	email: "annie@nikonova.com",
 	bg-color: rgb("#182133"),
 	fg-color: rgb("#a1e3d2"),
 	emph-color: rgb("#e3a1b2")
@@ -91,12 +91,12 @@
 
 
 #let nikonova(
-	title: "Math 20",
-	subtitle: "Review Topics in Algebra",
-	subsubtitle: "Notes and Solutions",
+	title: "Math",
+	subtitle: "Notes and Solutions",
+	subsubtitle: "Algebra",
 	number: "1",
-	author: "Nile Jocson",
-	email: "atraphaxia@gmail.com",
+	author: "Annie Nikonova",
+	email: "annie@nikonova.com",
 	font: "New Computer Modern",
 	bg-color: rgb("#182133"),
 	fg-color: rgb("#a1e3d2"),
@@ -150,6 +150,8 @@
 
 
 #let nikonova-problem(
+	title: none,
+	level: 3,
 	bg-color: rgb("#182133"),
 	fg-color: rgb("#a1e3d2"),
 	emph-color: rgb("#e3a1b2"),
@@ -165,7 +167,7 @@
 		radius: 0pt,
 		thickness: (left: 1pt),
 		title: [
-			===
+			#heading(level: level)[#title]
 			#text(fill: fg-color)[#question]
 		]
 	)[
