@@ -1,6 +1,3 @@
-// SPDX-FileCopyrightText: Copyright (C) 2025 Nile Jocson <atraphaxia@gmail.com>
-// SPDX-License-Identifier: 0BSD
-
 #import "@preview/mannot:0.3.0": markhl
 #import "@preview/showybox:2.0.4": showybox
 
