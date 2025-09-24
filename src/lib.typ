@@ -3,6 +3,12 @@
 
 
 
+#let bg-color = state("nikonova-bg-color", rgb("#182133"))
+#let fg-color = state("nikonova-fg-color", rgb("#a1e3d2"))
+#let emph-color = state("nikonova-emph-color", rgb("#e3a1b2"))
+
+
+
 #let nikonova-box(
 	bg-color: rgb("#182133"),
 	fg-color: rgb("#a1e3d2"),
