@@ -1,14 +1,14 @@
 # nikonova
 
-A [Typst](https://typst.app/) template package for math and math-related exercises and notes, using
-a unique dark color theme.
+A [Typst](https://typst.app/) template package for math and math-related
+exercises and notes, using a unique dark color theme.
 
 
 
 ## Usage
 
 ```typ
-#import "@preview/nikonova:0.1.1": nikonova, nikonova-problem as problem, nikonova-final as final
+#import "@preview/nikonova:0.2.0": nikonova, problem, final
 
 #show: nikonova.with(
 	title: "Math",
@@ -43,14 +43,15 @@ a unique dark color theme.
 
 ## Etymology
 
-Nikonova is a reference to AN-94, a character in Girls' Frontline, on whom this package's color
-theme is based upon.
+Nikonova is a reference to AN-94, a character in Girls' Frontline, on whom this
+package's color theme is based upon.
 
 
 
 ## Acknowledgements
 
-I would like to thank the maintainers of the following projects which are used in this package.
+I would like to thank the maintainers of the following projects which are used
+in this package.
 
 - [Typst](https://typst.app/)
 - [Mannot](https://github.com/ryuryu-ymj/mannot)

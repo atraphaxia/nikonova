@@ -146,7 +146,7 @@
 
 
 
-#let nikonova-problem(
+#let problem(
 	title: none,
 	level: 3,
 	bg-color: rgb("#182133"),
@@ -179,7 +179,7 @@
 
 
 
-#let nikonova-final(
+#let final(
 	body,
 	color: rgb("#e3a1b2").darken(50%)
 ) = {
